@@ -29,7 +29,7 @@
   "web_server": {
     "listen_on": ["127.0.0.1", 0],
     "www_directory": "data",
-    "index_files": ["index.html", "index.php"],
+    "index_files": ["pages/index.php"],
     "cgi_interpreter": "php/php-cgi.exe",
     "cgi_extensions": ["php"],
     "cgi_temp_dir": "",

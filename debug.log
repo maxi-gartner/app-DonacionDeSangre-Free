@@ -1948,3 +1948,1943 @@
 - 17:44:23.563 DEBUG: OnBrowserDestroyed()
 - 17:44:23.625 INFO: Ended application
 - 17:44:23.625 INFO: --------------------------------------------------------
+- 23:01:42.000 INFO: --------------------------------------------------------
+- 23:01:42.000 INFO: Started application
+- 23:01:42.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:01:42.000 INFO: Log level = DEBUG4
+- 23:01:42.000 INFO: Starting Mongoose 3.9c web server
+- 23:01:42.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:01:42.000 INFO: Index files: index.html,index.php
+- 23:01:42.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:01:42.000 INFO: CGI pattern: **.php$
+- 23:01:42.000 INFO: Hide files patterns: 
+- 23:01:42.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:01:42.000 INFO: Web server url: http://127.0.0.1:52645/
+- 23:01:42.000 INFO: remote_debugging_port = 62766
+- 23:01:42.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=62766
+- 23:01:42.031 DEBUG: App::OnContextInitialized()
+- 23:01:42.031 DEBUG: GetBrowserWindow(): not found, hwnd = 591644
+- 23:01:42.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:01:42.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:01:42.031 DEBUG: StoreBrowserWindow(): hwnd = 591644
+- 23:01:42.062 DEBUG: ClientHandler::OnAfterCreated()
+- 23:01:42.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:01:42.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:01:43.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=DEA3DA42DA20AAE2CA1152420A250171 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=DEA3DA42DA20AAE2CA1152420A250171 --renderer-client-id=3 --mojo-platform-channel-handle=2348 /prefetch:1
+- 23:01:43.015 DEBUG: OnBrowserCreated()
+[0901/230143.269:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:01:44.703 INFO: GET 200 /
+- 23:01:44.719 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52645/
+- 23:02:10.859 DEBUG: WM_DESTROY
+- 23:02:10.859 DEBUG: RemoveBrowserWindow(): hwnd = 591644
+- 23:02:10.859 INFO: Stopping Mongoose web server
+- 23:02:10.859 DEBUG: Mongoose webserver stopped immediately
+- 23:02:10.875 DEBUG: OnBeforeClose() hwnd=198454
+- 23:02:10.875 DEBUG: RemoveBrowserWindow(): hwnd = 198454
+- 23:02:10.875 DEBUG: GetBrowserWindow(): not found, hwnd = 198454
+- 23:02:10.875 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:02:10.875 DEBUG: Calling CefQuitMessageLoop()
+- 23:02:11.922 DEBUG: OnBrowserDestroyed()
+- 23:02:11.515 INFO: Ended application
+- 23:02:11.515 INFO: --------------------------------------------------------
+- 23:02:12.000 INFO: --------------------------------------------------------
+- 23:02:12.000 INFO: Started application
+- 23:02:12.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:02:12.000 INFO: Log level = DEBUG4
+- 23:02:12.000 INFO: Starting Mongoose 3.9c web server
+- 23:02:12.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:02:12.000 INFO: Index files: index.html,index.php
+- 23:02:12.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:02:12.000 INFO: CGI pattern: **.php$
+- 23:02:12.000 INFO: Hide files patterns: 
+- 23:02:12.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:02:12.000 INFO: Web server url: http://127.0.0.1:53035/
+- 23:02:12.000 INFO: remote_debugging_port = 61192
+- 23:02:12.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=61192
+- 23:02:12.032 DEBUG: App::OnContextInitialized()
+- 23:02:12.032 DEBUG: GetBrowserWindow(): not found, hwnd = 329460
+- 23:02:12.032 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:02:12.032 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:02:12.032 DEBUG: StoreBrowserWindow(): hwnd = 329460
+- 23:02:12.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=F713B5099CD7B7744B929DCE2AA55083 --mojo-platform-channel-handle=1824 /prefetch:2
+- 23:02:12.063 DEBUG: ClientHandler::OnAfterCreated()
+- 23:02:12.063 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:02:12.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:02:12.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=84E2CCF9221F373D332B4B4DDE8697F7 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=84E2CCF9221F373D332B4B4DDE8697F7 --renderer-client-id=3 --mojo-platform-channel-handle=2352 /prefetch:1
+- 23:02:12.015 DEBUG: OnBrowserCreated()
+[0901/230212.412:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:02:13.188 INFO: GET 200 /public/css/styles.css
+- 23:02:13.188 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:02:13.188 INFO: GET 200 /
+- 23:02:13.188 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:02:13.188 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:02:13.188 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:02:13.188 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:02:13.109 DEBUG: OnContextCreated()
+- 23:02:13.282 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:02:13.282 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:02:13.282 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:02:13.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53035/
+- 23:05:17.110 DEBUG: WM_DESTROY
+- 23:05:17.110 DEBUG: RemoveBrowserWindow(): hwnd = 329460
+- 23:05:17.110 INFO: Stopping Mongoose web server
+- 23:05:17.110 DEBUG: Mongoose webserver stopped immediately
+- 23:05:17.110 DEBUG: OnBeforeClose() hwnd=263940
+- 23:05:17.110 DEBUG: RemoveBrowserWindow(): hwnd = 263940
+- 23:05:17.110 DEBUG: GetBrowserWindow(): not found, hwnd = 263940
+- 23:05:17.110 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:05:17.110 DEBUG: Calling CefQuitMessageLoop()
+- 23:05:17.125 INFO: Ended application
+- 23:05:17.125 INFO: --------------------------------------------------------
+- 23:05:19.000 INFO: --------------------------------------------------------
+- 23:05:19.000 INFO: Started application
+- 23:05:19.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:05:19.000 INFO: Log level = DEBUG4
+- 23:05:19.000 INFO: Starting Mongoose 3.9c web server
+- 23:05:19.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:05:19.000 INFO: Index files: index.html,index.php
+- 23:05:19.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:05:19.000 INFO: CGI pattern: **.php$
+- 23:05:19.000 INFO: Hide files patterns: 
+- 23:05:19.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:05:19.000 INFO: Web server url: http://127.0.0.1:55503/
+- 23:05:19.000 INFO: remote_debugging_port = 57564
+- 23:05:19.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=57564
+- 23:05:19.031 DEBUG: App::OnContextInitialized()
+- 23:05:19.031 DEBUG: GetBrowserWindow(): not found, hwnd = 657122
+- 23:05:19.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:05:19.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:05:19.031 DEBUG: StoreBrowserWindow(): hwnd = 657122
+- 23:05:19.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=D5D08A06ACF804D0BB30223B68A9B50B --mojo-platform-channel-handle=1828 /prefetch:2
+- 23:05:19.046 DEBUG: ClientHandler::OnAfterCreated()
+- 23:05:19.046 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:05:19.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:05:19.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=ED985AA9D90F367A1B434721B9FEA658 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=ED985AA9D90F367A1B434721B9FEA658 --renderer-client-id=3 --mojo-platform-channel-handle=2372 /prefetch:1
+- 23:05:19.015 DEBUG: OnBrowserCreated()
+[0901/230519.741:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:05:20.171 INFO: GET 200 /public/css/styles.css
+- 23:05:20.171 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:05:20.171 INFO: GET 200 /
+- 23:05:20.171 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:05:20.187 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:05:20.187 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:05:20.187 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:05:20.109 DEBUG: OnContextCreated()
+- 23:05:20.265 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:05:20.265 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:05:20.265 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:05:20.343 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55503/
+- 23:05:29.781 DEBUG: WM_DESTROY
+- 23:05:29.781 DEBUG: RemoveBrowserWindow(): hwnd = 657122
+- 23:05:29.781 INFO: Stopping Mongoose web server
+- 23:05:29.781 DEBUG: Mongoose webserver stopped immediately
+- 23:05:29.796 DEBUG: OnBeforeClose() hwnd=263966
+- 23:05:29.796 DEBUG: RemoveBrowserWindow(): hwnd = 263966
+- 23:05:29.796 DEBUG: GetBrowserWindow(): not found, hwnd = 263966
+- 23:05:29.796 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:05:29.796 DEBUG: Calling CefQuitMessageLoop()
+- 23:05:29.812 INFO: Ended application
+- 23:05:29.812 INFO: --------------------------------------------------------
+- 23:05:41.000 INFO: --------------------------------------------------------
+- 23:05:41.000 INFO: Started application
+- 23:05:41.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:05:41.000 INFO: Log level = DEBUG4
+- 23:05:41.000 INFO: Starting Mongoose 3.9c web server
+- 23:05:41.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:05:41.000 INFO: Index files: index.html,index.php
+- 23:05:41.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:05:41.000 INFO: CGI pattern: **.php$
+- 23:05:41.000 INFO: Hide files patterns: 
+- 23:05:41.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:05:41.000 INFO: Web server url: http://127.0.0.1:55798/
+- 23:05:41.000 INFO: remote_debugging_port = 53531
+- 23:05:41.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=53531
+- 23:05:41.015 DEBUG: App::OnContextInitialized()
+- 23:05:41.015 DEBUG: GetBrowserWindow(): not found, hwnd = 395012
+- 23:05:41.015 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:05:41.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:05:41.031 DEBUG: StoreBrowserWindow(): hwnd = 395012
+- 23:05:41.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=F04692D28CDE919FB18A1843734B88A7 --mojo-platform-channel-handle=1836 /prefetch:2
+- 23:05:41.046 DEBUG: ClientHandler::OnAfterCreated()
+- 23:05:41.046 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:05:41.046 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:05:41.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=51EC3FF57B354D43C40257809479D71D --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=51EC3FF57B354D43C40257809479D71D --renderer-client-id=3 --mojo-platform-channel-handle=2300 /prefetch:1
+- 23:05:41.016 DEBUG: OnBrowserCreated()
+[0901/230541.352:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:05:42.171 INFO: GET 200 /public/css/styles.css
+- 23:05:42.171 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:05:42.171 INFO: GET 200 /
+- 23:05:42.171 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:05:42.109 DEBUG: OnContextCreated()
+- 23:05:42.187 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:05:42.187 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:05:42.187 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:05:42.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:05:42.281 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:05:42.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:05:42.343 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55798/
+- 23:06:00.906 DEBUG: WM_DESTROY
+- 23:06:00.906 DEBUG: RemoveBrowserWindow(): hwnd = 395012
+- 23:06:00.906 INFO: Stopping Mongoose web server
+- 23:06:00.906 DEBUG: Mongoose webserver stopped immediately
+- 23:06:00.906 DEBUG: OnBeforeClose() hwnd=329502
+- 23:06:00.906 DEBUG: RemoveBrowserWindow(): hwnd = 329502
+- 23:06:00.906 DEBUG: GetBrowserWindow(): not found, hwnd = 329502
+- 23:06:00.906 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:06:00.906 DEBUG: Calling CefQuitMessageLoop()
+- 23:06:00.844 DEBUG: OnBrowserDestroyed()
+- 23:06:00.921 INFO: Ended application
+- 23:06:00.921 INFO: --------------------------------------------------------
+- 23:07:10.000 INFO: --------------------------------------------------------
+- 23:07:10.000 INFO: Started application
+- 23:07:10.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:07:10.000 INFO: Log level = DEBUG4
+- 23:07:10.000 INFO: Starting Mongoose 3.9c web server
+- 23:07:10.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:07:10.000 INFO: Index files: index.html,index.php
+- 23:07:10.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:07:10.000 INFO: CGI pattern: **.php$
+- 23:07:10.000 INFO: Hide files patterns: 
+- 23:07:10.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:07:10.000 INFO: Web server url: http://127.0.0.1:56829/
+- 23:07:10.000 INFO: remote_debugging_port = 50312
+- 23:07:10.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=50312
+- 23:07:10.031 DEBUG: App::OnContextInitialized()
+- 23:07:10.031 DEBUG: GetBrowserWindow(): not found, hwnd = 722706
+- 23:07:10.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:07:10.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:07:10.031 DEBUG: StoreBrowserWindow(): hwnd = 722706
+- 23:07:10.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=A698F613AD3F8C49DB82A03904532A70 --mojo-platform-channel-handle=1828 /prefetch:2
+- 23:07:10.047 DEBUG: ClientHandler::OnAfterCreated()
+- 23:07:10.047 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:07:10.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:07:10.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=501CE0EAAA662F61864032F3867177CC --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=501CE0EAAA662F61864032F3867177CC --renderer-client-id=3 --mojo-platform-channel-handle=2360 /prefetch:1
+- 23:07:10.016 DEBUG: OnBrowserCreated()
+[0901/230710.350:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:07:11.172 INFO: GET 200 /public/css/styles.css
+- 23:07:11.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:07:11.172 INFO: GET 200 /
+- 23:07:11.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:07:11.094 DEBUG: OnContextCreated()
+- 23:07:11.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:07:11.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:07:11.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:07:11.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:07:11.266 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:07:11.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:07:11.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56829/
+- 23:08:17.891 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56829/
+- 23:08:17.891 INFO: GET 404 /index3.html
+- 23:08:17.828 DEBUG: OnContextCreated()
+- 23:08:17.937 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56829/index3.html
+- 23:08:38.641 DEBUG: WM_DESTROY
+- 23:08:38.641 DEBUG: RemoveBrowserWindow(): hwnd = 722706
+- 23:08:38.641 INFO: Stopping Mongoose web server
+- 23:08:38.641 DEBUG: Mongoose webserver stopped immediately
+- 23:08:38.641 DEBUG: OnBeforeClose() hwnd=460548
+- 23:08:38.641 DEBUG: RemoveBrowserWindow(): hwnd = 460548
+- 23:08:38.641 DEBUG: GetBrowserWindow(): not found, hwnd = 460548
+- 23:08:38.641 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:08:38.641 DEBUG: Calling CefQuitMessageLoop()
+- 23:08:38.609 DEBUG: OnBrowserDestroyed()
+- 23:08:38.703 INFO: Ended application
+- 23:08:38.703 INFO: --------------------------------------------------------
+- 23:08:40.000 INFO: --------------------------------------------------------
+- 23:08:40.000 INFO: Started application
+- 23:08:40.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:08:40.000 INFO: Log level = DEBUG4
+- 23:08:40.000 INFO: Starting Mongoose 3.9c web server
+- 23:08:40.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:08:40.000 INFO: Index files: index.html,index.php
+- 23:08:40.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:08:40.000 INFO: CGI pattern: **.php$
+- 23:08:40.000 INFO: Hide files patterns: 
+- 23:08:40.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:08:40.000 INFO: Web server url: http://127.0.0.1:57908/
+- 23:08:40.000 INFO: remote_debugging_port = 52193
+- 23:08:40.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=52193
+- 23:08:40.031 DEBUG: App::OnContextInitialized()
+- 23:08:40.031 DEBUG: GetBrowserWindow(): not found, hwnd = 853730
+- 23:08:40.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:08:40.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:08:40.031 DEBUG: StoreBrowserWindow(): hwnd = 853730
+- 23:08:40.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=AEAEDC65A695ECD5501AFDC88B1DF16C --mojo-platform-channel-handle=1832 /prefetch:2
+- 23:08:40.046 DEBUG: ClientHandler::OnAfterCreated()
+- 23:08:40.046 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:08:40.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:08:40.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=B2D54A57D7A60473083AF92F5926F4B1 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=B2D54A57D7A60473083AF92F5926F4B1 --renderer-client-id=3 --mojo-platform-channel-handle=2320 /prefetch:1
+- 23:08:40.015 DEBUG: OnBrowserCreated()
+[0901/230840.232:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:08:41.171 INFO: GET 200 /public/css/styles.css
+- 23:08:41.171 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:08:41.171 INFO: GET 200 /
+- 23:08:41.171 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:08:41.171 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:08:41.171 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:08:41.171 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:08:41.093 DEBUG: OnContextCreated()
+- 23:08:41.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:08:41.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:08:41.250 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:08:41.312 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57908/
+- 23:08:42.515 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57908/
+- 23:08:42.484 DEBUG: OnContextCreated()
+- 23:08:42.562 INFO: GET 200 /index.php
+- 23:08:42.656 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:08:42.656 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:08:42.671 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57908/index.php
+- 23:08:43.656 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57908/index.php
+- 23:08:43.625 DEBUG: OnContextCreated()
+- 23:08:43.703 INFO: GET 200 /index.php
+- 23:08:43.750 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:08:43.750 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:08:43.765 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57908/index.php
+- 23:13:11.343 DEBUG: WM_DESTROY
+- 23:13:11.343 DEBUG: RemoveBrowserWindow(): hwnd = 853730
+- 23:13:11.343 INFO: Stopping Mongoose web server
+- 23:13:11.343 DEBUG: Mongoose webserver stopped immediately
+- 23:13:11.343 DEBUG: OnBeforeClose() hwnd=1312486
+- 23:13:11.343 DEBUG: RemoveBrowserWindow(): hwnd = 1312486
+- 23:13:11.343 DEBUG: GetBrowserWindow(): not found, hwnd = 1312486
+- 23:13:11.343 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:13:11.343 DEBUG: Calling CefQuitMessageLoop()
+- 23:13:11.265 DEBUG: OnBrowserDestroyed()
+- 23:13:11.359 INFO: Ended application
+- 23:13:11.359 INFO: --------------------------------------------------------
+- 23:13:17.000 INFO: --------------------------------------------------------
+- 23:13:17.000 INFO: Started application
+- 23:13:17.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:13:17.000 INFO: Log level = DEBUG4
+- 23:13:17.000 INFO: Starting Mongoose 3.9c web server
+- 23:13:17.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:13:17.000 INFO: Index files: pages/index.html,index.php
+- 23:13:17.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:13:17.000 INFO: CGI pattern: **.php$
+- 23:13:17.000 INFO: Hide files patterns: 
+- 23:13:17.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:13:17.000 INFO: Web server url: http://127.0.0.1:58005/
+- 23:13:17.000 INFO: remote_debugging_port = 62186
+- 23:13:17.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=62186
+- 23:13:17.031 DEBUG: App::OnContextInitialized()
+- 23:13:17.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1246870
+- 23:13:17.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:13:17.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:13:17.031 DEBUG: StoreBrowserWindow(): hwnd = 1246870
+- 23:13:17.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=22A026C4B3F97C1EE8EB18B1EB4ED57C --mojo-platform-channel-handle=1832 /prefetch:2
+- 23:13:17.046 DEBUG: ClientHandler::OnAfterCreated()
+- 23:13:17.046 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:13:17.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:13:17.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=933E77E7460B89FA8ECD5C103EED20A3 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=933E77E7460B89FA8ECD5C103EED20A3 --renderer-client-id=3 --mojo-platform-channel-handle=2360 /prefetch:1
+- 23:13:17.015 DEBUG: OnBrowserCreated()
+[0901/231317.613:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:13:18.125 INFO: GET 200 /
+- 23:13:18.203 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58005/
+- 23:13:30.812 DEBUG: WM_DESTROY
+- 23:13:30.812 DEBUG: RemoveBrowserWindow(): hwnd = 1246870
+- 23:13:30.812 INFO: Stopping Mongoose web server
+- 23:13:30.812 DEBUG: Mongoose webserver stopped immediately
+- 23:13:30.812 DEBUG: OnBeforeClose() hwnd=657116
+- 23:13:30.812 DEBUG: RemoveBrowserWindow(): hwnd = 657116
+- 23:13:30.812 DEBUG: GetBrowserWindow(): not found, hwnd = 657116
+- 23:13:30.812 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:13:30.812 DEBUG: Calling CefQuitMessageLoop()
+- 23:13:30.734 DEBUG: OnBrowserDestroyed()
+- 23:13:30.828 INFO: Ended application
+- 23:13:30.828 INFO: --------------------------------------------------------
+- 23:13:51.000 INFO: --------------------------------------------------------
+- 23:13:51.000 INFO: Started application
+- 23:13:51.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:13:51.000 INFO: Log level = DEBUG4
+- 23:13:51.000 INFO: Starting Mongoose 3.9c web server
+- 23:13:51.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:13:51.000 INFO: Index files: pages/index.php
+- 23:13:51.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:13:51.000 INFO: CGI pattern: **.php$
+- 23:13:51.000 INFO: Hide files patterns: 
+- 23:13:51.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:13:51.000 INFO: Web server url: http://127.0.0.1:58427/
+- 23:13:51.016 INFO: remote_debugging_port = 62052
+- 23:13:51.016 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=62052
+- 23:13:51.031 DEBUG: App::OnContextInitialized()
+- 23:13:51.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1443558
+- 23:13:51.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:13:51.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:13:51.031 DEBUG: StoreBrowserWindow(): hwnd = 1443558
+- 23:13:51.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=3AC36098B500245C184D2865C1E68580 --mojo-platform-channel-handle=1832 /prefetch:2
+- 23:13:51.063 DEBUG: ClientHandler::OnAfterCreated()
+- 23:13:51.063 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:13:51.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:13:51.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=998C8D474D03977284787E35DCEA0D51 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=998C8D474D03977284787E35DCEA0D51 --renderer-client-id=3 --mojo-platform-channel-handle=2352 /prefetch:1
+- 23:13:51.016 DEBUG: OnBrowserCreated()
+[0901/231351.194:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:13:52.172 INFO: GET 200 /
+- 23:13:52.188 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58427/
+- 23:13:54.156 DEBUG: WM_DESTROY
+- 23:13:54.156 DEBUG: RemoveBrowserWindow(): hwnd = 1443558
+- 23:13:54.156 INFO: Stopping Mongoose web server
+- 23:13:54.156 DEBUG: Mongoose webserver stopped immediately
+- 23:13:54.156 DEBUG: OnBeforeClose() hwnd=526136
+- 23:13:54.156 DEBUG: RemoveBrowserWindow(): hwnd = 526136
+- 23:13:54.156 DEBUG: GetBrowserWindow(): not found, hwnd = 526136
+- 23:13:54.156 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:13:54.156 DEBUG: Calling CefQuitMessageLoop()
+- 23:13:54.078 DEBUG: OnBrowserDestroyed()
+- 23:13:54.172 INFO: Ended application
+- 23:13:54.172 INFO: --------------------------------------------------------
+- 23:14:09.000 INFO: --------------------------------------------------------
+- 23:14:09.000 INFO: Started application
+- 23:14:09.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:14:09.000 INFO: Log level = DEBUG4
+- 23:14:09.000 INFO: Starting Mongoose 3.9c web server
+- 23:14:09.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:14:09.000 INFO: Index files: pages/index.php
+- 23:14:09.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:14:09.000 INFO: CGI pattern: **.php$
+- 23:14:09.000 INFO: Hide files patterns: 
+- 23:14:09.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:14:09.000 INFO: Web server url: http://127.0.0.1:58667/
+- 23:14:09.000 INFO: remote_debugging_port = 56263
+- 23:14:09.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=56263
+- 23:14:09.031 DEBUG: App::OnContextInitialized()
+- 23:14:09.031 DEBUG: GetBrowserWindow(): not found, hwnd = 3475290
+- 23:14:09.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:14:09.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:14:09.031 DEBUG: StoreBrowserWindow(): hwnd = 3475290
+- 23:14:09.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=FD258C0685CC8CDB7A0342A271CEC8E9 --mojo-platform-channel-handle=1832 /prefetch:2
+- 23:14:09.063 DEBUG: ClientHandler::OnAfterCreated()
+- 23:14:09.063 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:14:09.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:14:09.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=B55F504CFB1762CDCF2DB715CFF1DD46 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=B55F504CFB1762CDCF2DB715CFF1DD46 --renderer-client-id=3 --mojo-platform-channel-handle=2380 /prefetch:1
+- 23:14:09.016 DEBUG: OnBrowserCreated()
+[0901/231409.881:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:14:10.172 INFO: GET 200 /public/css/styles.css
+- 23:14:10.172 INFO: GET 200 /
+- 23:14:10.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:14:10.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:14:10.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:14:10.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:14:10.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:14:10.094 DEBUG: OnContextCreated()
+- 23:14:10.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:14:10.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:14:10.250 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:14:11.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58667/
+- 23:14:11.203 DEBUG: WM_DESTROY
+- 23:14:11.203 DEBUG: RemoveBrowserWindow(): hwnd = 3475290
+- 23:14:11.203 INFO: Stopping Mongoose web server
+- 23:14:11.203 DEBUG: Mongoose webserver stopped immediately
+- 23:14:11.219 DEBUG: OnBeforeClose() hwnd=1509094
+- 23:14:11.219 DEBUG: RemoveBrowserWindow(): hwnd = 1509094
+- 23:14:11.219 DEBUG: GetBrowserWindow(): not found, hwnd = 1509094
+- 23:14:11.219 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:14:11.219 DEBUG: Calling CefQuitMessageLoop()
+- 23:14:11.141 DEBUG: OnBrowserDestroyed()
+- 23:14:11.219 INFO: Ended application
+- 23:14:11.219 INFO: --------------------------------------------------------
+- 23:17:45.000 INFO: --------------------------------------------------------
+- 23:17:45.000 INFO: Started application
+- 23:17:45.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:17:45.000 INFO: Log level = DEBUG4
+- 23:17:45.000 INFO: Starting Mongoose 3.9c web server
+- 23:17:45.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:17:45.000 INFO: Index files: pages/index.php
+- 23:17:45.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:17:45.000 INFO: CGI pattern: **.php$
+- 23:17:45.000 INFO: Hide files patterns: 
+- 23:17:45.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:17:45.000 INFO: Web server url: http://127.0.0.1:59857/
+- 23:17:45.000 INFO: remote_debugging_port = 53084
+- 23:17:45.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=53084
+- 23:17:46.031 DEBUG: App::OnContextInitialized()
+- 23:17:46.031 DEBUG: GetBrowserWindow(): not found, hwnd = 853696
+- 23:17:46.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:17:46.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:17:46.031 DEBUG: StoreBrowserWindow(): hwnd = 853696
+- 23:17:46.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=8DEDB9AE2A928480365177754D7B04A3 --mojo-platform-channel-handle=1860 /prefetch:2
+- 23:17:46.047 DEBUG: ClientHandler::OnAfterCreated()
+- 23:17:46.047 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:17:46.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:17:46.016 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=C90BDFBDBFE85C3A00011037F9590089 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=C90BDFBDBFE85C3A00011037F9590089 --renderer-client-id=3 --mojo-platform-channel-handle=2380 /prefetch:1
+- 23:17:46.032 DEBUG: OnBrowserCreated()
+[0901/231746.138:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:17:47.156 INFO: GET 200 /public/css/styles.css
+- 23:17:47.156 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:17:47.156 INFO: GET 200 /
+- 23:17:47.156 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:17:47.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:17:47.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:17:47.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:17:47.110 DEBUG: OnContextCreated()
+- 23:17:47.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:17:47.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:17:47.250 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:17:47.312 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:59857/
+- 23:17:48.297 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:59857/
+- 23:17:48.297 INFO: GET 404 /contact.php
+- 23:17:48.235 DEBUG: OnContextCreated()
+- 23:17:48.297 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:59857/contact.php
+- 23:17:51.875 DEBUG: WM_DESTROY
+- 23:17:51.875 DEBUG: RemoveBrowserWindow(): hwnd = 853696
+- 23:17:51.875 INFO: Stopping Mongoose web server
+- 23:17:51.875 DEBUG: Mongoose webserver stopped immediately
+- 23:17:51.875 DEBUG: OnBeforeClose() hwnd=328850
+- 23:17:51.875 DEBUG: RemoveBrowserWindow(): hwnd = 328850
+- 23:17:51.875 DEBUG: GetBrowserWindow(): not found, hwnd = 328850
+- 23:17:51.875 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:17:51.875 DEBUG: Calling CefQuitMessageLoop()
+- 23:17:51.828 DEBUG: OnBrowserDestroyed()
+- 23:17:51.890 INFO: Ended application
+- 23:17:51.890 INFO: --------------------------------------------------------
+- 23:18:26.000 INFO: --------------------------------------------------------
+- 23:18:26.000 INFO: Started application
+- 23:18:26.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:18:26.000 INFO: Log level = DEBUG4
+- 23:18:26.000 INFO: Starting Mongoose 3.9c web server
+- 23:18:26.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:18:26.000 INFO: Index files: pages/index.php
+- 23:18:26.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:18:26.000 INFO: CGI pattern: **.php$
+- 23:18:26.000 INFO: Hide files patterns: 
+- 23:18:26.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:18:26.000 INFO: Web server url: http://127.0.0.1:63401/
+- 23:18:26.000 INFO: remote_debugging_port = 55864
+- 23:18:26.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=55864
+- 23:18:26.016 DEBUG: App::OnContextInitialized()
+- 23:18:26.032 DEBUG: GetBrowserWindow(): not found, hwnd = 35915412
+- 23:18:26.032 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:18:26.032 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:18:26.032 DEBUG: StoreBrowserWindow(): hwnd = 35915412
+- 23:18:26.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=E490165E65260ACC1482740109B98CC4 --mojo-platform-channel-handle=1832 /prefetch:2
+- 23:18:26.047 DEBUG: ClientHandler::OnAfterCreated()
+- 23:18:26.047 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:18:26.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:18:26.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=F7401A610F87900A0AA996702B390311 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=F7401A610F87900A0AA996702B390311 --renderer-client-id=3 --mojo-platform-channel-handle=2372 /prefetch:1
+- 23:18:26.015 DEBUG: OnBrowserCreated()
+[0901/231826.535:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:18:27.172 INFO: GET 200 /public/css/styles.css
+- 23:18:27.172 INFO: GET 200 /
+- 23:18:27.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:18:27.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:18:27.093 DEBUG: OnContextCreated()
+- 23:18:27.188 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:18:27.188 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:18:27.188 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:18:27.282 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:18:27.282 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:18:27.282 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:18:27.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:63401/
+- 23:18:28.235 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:63401/
+- 23:18:28.218 DEBUG: OnContextCreated()
+- 23:18:28.297 INFO: GET 200 /pages/contact.php
+- 23:18:28.297 INFO: GET 404 /pages/public/css/styles.css
+- 23:18:28.297 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:18:28.297 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:18:28.297 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:18:28.297 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:18:28.297 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:18:28.313 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:18:28.344 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:18:28.360 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:18:28.360 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:63401/pages/contact.php
+- 23:19:59.219 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:63401/pages/contact.php
+- 23:19:59.187 DEBUG: OnContextCreated()
+- 23:19:59.266 INFO: GET 200 /pages/index.php
+- 23:19:59.266 INFO: GET 404 /pages/public/css/styles.css
+- 23:19:59.266 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:19:59.266 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:19:59.266 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:19:59.266 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:19:59.266 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:19:59.282 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:63401/pages/index.php
+- 23:20:00.516 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:63401/pages/index.php
+- 23:20:00.484 DEBUG: OnContextCreated()
+- 23:20:00.563 INFO: GET 200 /pages/contact.php
+- 23:20:00.563 INFO: GET 404 /pages/public/css/styles.css
+- 23:20:00.563 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:20:00.563 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:20:00.563 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:20:00.563 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:20:00.563 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:20:00.563 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:20:00.579 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:63401/pages/contact.php
+- 23:20:05.594 DEBUG: WM_DESTROY
+- 23:20:05.594 DEBUG: RemoveBrowserWindow(): hwnd = 35915412
+- 23:20:05.594 INFO: Stopping Mongoose web server
+- 23:20:05.594 DEBUG: Mongoose webserver stopped immediately
+- 23:20:05.594 DEBUG: OnBeforeClose() hwnd=394386
+- 23:20:05.594 DEBUG: RemoveBrowserWindow(): hwnd = 394386
+- 23:20:05.594 DEBUG: GetBrowserWindow(): not found, hwnd = 394386
+- 23:20:05.594 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:20:05.594 DEBUG: Calling CefQuitMessageLoop()
+- 23:20:05.515 DEBUG: OnBrowserDestroyed()
+- 23:20:05.610 INFO: Ended application
+- 23:20:05.610 INFO: --------------------------------------------------------
+- 23:20:08.000 INFO: --------------------------------------------------------
+- 23:20:08.000 INFO: Started application
+- 23:20:08.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:20:08.000 INFO: Log level = DEBUG4
+- 23:20:08.000 INFO: Starting Mongoose 3.9c web server
+- 23:20:08.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:20:08.000 INFO: Index files: pages/index.php
+- 23:20:08.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:20:08.000 INFO: CGI pattern: **.php$
+- 23:20:08.000 INFO: Hide files patterns: 
+- 23:20:08.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:20:08.000 INFO: Web server url: http://127.0.0.1:55382/
+- 23:20:08.000 INFO: remote_debugging_port = 61874
+- 23:20:08.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=61874
+- 23:20:08.031 DEBUG: App::OnContextInitialized()
+- 23:20:08.031 DEBUG: GetBrowserWindow(): not found, hwnd = 3016618
+- 23:20:08.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:20:08.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:20:08.031 DEBUG: StoreBrowserWindow(): hwnd = 3016618
+- 23:20:08.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=38FFABDD7D7BAE15A0C2AD5AB5F9D8BA --mojo-platform-channel-handle=1836 /prefetch:2
+- 23:20:08.063 DEBUG: ClientHandler::OnAfterCreated()
+- 23:20:08.063 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:20:08.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:20:08.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=57700FD07A1F3911478F907ACB9F00F0 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=57700FD07A1F3911478F907ACB9F00F0 --renderer-client-id=3 --mojo-platform-channel-handle=2364 /prefetch:1
+- 23:20:08.016 DEBUG: OnBrowserCreated()
+[0901/232008.423:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:20:09.172 INFO: GET 200 /public/css/styles.css
+- 23:20:09.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:20:09.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:20:09.172 INFO: GET 200 /
+- 23:20:09.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:20:09.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:20:09.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:20:09.094 DEBUG: OnContextCreated()
+- 23:20:09.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:20:09.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:20:09.266 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:20:09.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55382/
+- 23:20:10.469 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55382/
+- 23:20:10.438 DEBUG: OnContextCreated()
+- 23:20:10.516 INFO: GET 200 /pages/contact.php
+- 23:20:10.516 INFO: GET 404 /pages/public/css/styles.css
+- 23:20:10.516 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:20:10.516 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:20:10.516 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:20:10.516 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:20:10.516 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:20:10.531 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55382/pages/contact.php
+- 23:20:42.609 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55382/pages/contact.php
+- 23:20:42.578 DEBUG: OnContextCreated()
+- 23:20:42.672 INFO: GET 200 /pages/contact.php
+- 23:20:42.672 INFO: GET 404 /pages/public/css/styles.css
+- 23:20:42.672 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:20:42.672 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:20:42.672 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:20:42.672 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:20:42.672 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:20:42.672 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55382/pages/contact.php
+- 23:20:43.547 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55382/pages/contact.php
+- 23:20:43.516 DEBUG: OnContextCreated()
+- 23:20:43.594 INFO: GET 200 /pages/index.php
+- 23:20:43.594 INFO: GET 404 /pages/public/css/styles.css
+- 23:20:43.594 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:20:43.594 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:20:43.594 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:20:43.594 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:20:43.594 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:20:43.609 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:20:43.609 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55382/pages/index.php
+- 23:20:46.719 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55382/pages/index.php
+- 23:20:46.719 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55382/pages/index.php#
+- 23:20:47.672 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55382/pages/index.php#
+- 23:20:47.672 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55382/pages/index.php#
+- 23:20:49.531 DEBUG: WM_DESTROY
+- 23:20:49.531 DEBUG: RemoveBrowserWindow(): hwnd = 3016618
+- 23:20:49.531 INFO: Stopping Mongoose web server
+- 23:20:49.531 DEBUG: Mongoose webserver stopped immediately
+- 23:20:49.547 DEBUG: OnBeforeClose() hwnd=1115294
+- 23:20:49.547 DEBUG: RemoveBrowserWindow(): hwnd = 1115294
+- 23:20:49.547 DEBUG: GetBrowserWindow(): not found, hwnd = 1115294
+- 23:20:49.547 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:20:49.547 DEBUG: Calling CefQuitMessageLoop()
+- 23:20:49.469 DEBUG: OnBrowserDestroyed()
+- 23:20:49.563 INFO: Ended application
+- 23:20:49.563 INFO: --------------------------------------------------------
+- 23:20:50.000 INFO: --------------------------------------------------------
+- 23:20:50.000 INFO: Started application
+- 23:20:50.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:20:50.000 INFO: Log level = DEBUG4
+- 23:20:50.000 INFO: Starting Mongoose 3.9c web server
+- 23:20:50.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:20:50.000 INFO: Index files: pages/index.php
+- 23:20:50.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:20:50.000 INFO: CGI pattern: **.php$
+- 23:20:50.000 INFO: Hide files patterns: 
+- 23:20:50.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:20:50.000 INFO: Web server url: http://127.0.0.1:56020/
+- 23:20:50.000 INFO: remote_debugging_port = 63016
+- 23:20:50.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=63016
+- 23:20:50.031 DEBUG: App::OnContextInitialized()
+- 23:20:50.031 DEBUG: GetBrowserWindow(): not found, hwnd = 788352
+- 23:20:50.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:20:50.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:20:50.031 DEBUG: StoreBrowserWindow(): hwnd = 788352
+- 23:20:50.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=E6829E5CFAF18B6202164D88E60BE0CC --mojo-platform-channel-handle=1828 /prefetch:2
+- 23:20:50.062 DEBUG: ClientHandler::OnAfterCreated()
+- 23:20:50.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:20:50.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:20:51.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=8CA3433FF2A2BD32538E8436AF98A8F0 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=8CA3433FF2A2BD32538E8436AF98A8F0 --renderer-client-id=3 --mojo-platform-channel-handle=2364 /prefetch:1
+- 23:20:51.016 DEBUG: OnBrowserCreated()
+[0901/232051.086:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:20:52.172 INFO: GET 200 /public/css/styles.css
+- 23:20:52.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:20:52.172 INFO: GET 200 /
+- 23:20:52.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:20:52.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:20:52.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:20:52.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:20:52.094 DEBUG: OnContextCreated()
+- 23:20:52.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:20:52.266 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:20:52.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:20:52.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56020/
+- 23:20:54.937 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56020/
+- 23:20:54.922 DEBUG: OnContextCreated()
+- 23:20:54.000 INFO: GET 200 /pages/contact.php
+- 23:20:54.000 INFO: GET 404 /pages/public/css/styles.css
+- 23:20:54.000 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:20:54.000 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:20:54.000 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:20:54.000 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:20:54.000 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:20:54.016 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56020/pages/contact.php
+- 23:21:21.750 DEBUG: WM_DESTROY
+- 23:21:21.750 DEBUG: RemoveBrowserWindow(): hwnd = 788352
+- 23:21:21.750 INFO: Stopping Mongoose web server
+- 23:21:21.750 DEBUG: Mongoose webserver stopped immediately
+- 23:21:21.750 DEBUG: OnBeforeClose() hwnd=853162
+- 23:21:21.750 DEBUG: RemoveBrowserWindow(): hwnd = 853162
+- 23:21:21.750 DEBUG: GetBrowserWindow(): not found, hwnd = 853162
+- 23:21:21.750 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:21:21.750 DEBUG: Calling CefQuitMessageLoop()
+- 23:21:21.672 DEBUG: OnBrowserDestroyed()
+- 23:21:21.766 INFO: Ended application
+- 23:21:21.766 INFO: --------------------------------------------------------
+- 23:21:22.000 INFO: --------------------------------------------------------
+- 23:21:22.000 INFO: Started application
+- 23:21:22.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:21:22.000 INFO: Log level = DEBUG4
+- 23:21:22.000 INFO: Starting Mongoose 3.9c web server
+- 23:21:22.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:21:22.000 INFO: Index files: pages/index.php
+- 23:21:22.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:21:22.000 INFO: CGI pattern: **.php$
+- 23:21:22.000 INFO: Hide files patterns: 
+- 23:21:22.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:21:22.015 INFO: Web server url: http://127.0.0.1:56593/
+- 23:21:22.015 INFO: remote_debugging_port = 49824
+- 23:21:22.015 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=49824
+- 23:21:22.031 DEBUG: App::OnContextInitialized()
+- 23:21:22.031 DEBUG: GetBrowserWindow(): not found, hwnd = 918684
+- 23:21:22.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:21:22.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:21:22.031 DEBUG: StoreBrowserWindow(): hwnd = 918684
+- 23:21:22.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=0D4FB80C64D7C2840369CC928EB7F178 --mojo-platform-channel-handle=1848 /prefetch:2
+- 23:21:23.062 DEBUG: ClientHandler::OnAfterCreated()
+- 23:21:23.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:21:23.078 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:21:23.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=2A6D70AFB1F214695B7EB1BF3CFC523B --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=2A6D70AFB1F214695B7EB1BF3CFC523B --renderer-client-id=3 --mojo-platform-channel-handle=2356 /prefetch:1
+- 23:21:23.015 DEBUG: OnBrowserCreated()
+[0901/232123.123:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:21:24.171 INFO: GET 200 /public/css/styles.css
+- 23:21:24.171 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:21:24.171 INFO: GET 200 /
+- 23:21:24.171 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:21:24.171 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:21:24.171 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:21:24.171 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:21:24.093 DEBUG: OnContextCreated()
+- 23:21:24.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:21:24.281 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:21:24.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:21:24.343 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56593/
+- 23:21:25.421 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56593/
+- 23:21:25.390 DEBUG: OnContextCreated()
+- 23:21:25.468 INFO: GET 200 /pages/contact.php
+- 23:21:25.468 INFO: GET 404 /pages/public/css/styles.css
+- 23:21:25.468 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:21:25.468 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:21:25.468 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:21:25.468 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:21:25.468 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:21:25.484 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56593/pages/contact.php
+- 23:21:45.312 DEBUG: WM_DESTROY
+- 23:21:45.312 DEBUG: RemoveBrowserWindow(): hwnd = 918684
+- 23:21:45.312 INFO: Stopping Mongoose web server
+- 23:21:45.312 DEBUG: Mongoose webserver stopped immediately
+- 23:21:45.328 DEBUG: OnBeforeClose() hwnd=788392
+- 23:21:45.328 DEBUG: RemoveBrowserWindow(): hwnd = 788392
+- 23:21:45.328 DEBUG: GetBrowserWindow(): not found, hwnd = 788392
+- 23:21:45.328 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:21:45.328 DEBUG: Calling CefQuitMessageLoop()
+- 23:21:45.250 DEBUG: OnBrowserDestroyed()
+- 23:21:45.343 INFO: Ended application
+- 23:21:45.343 INFO: --------------------------------------------------------
+- 23:22:06.000 INFO: --------------------------------------------------------
+- 23:22:06.000 INFO: Started application
+- 23:22:06.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:22:06.000 INFO: Log level = DEBUG4
+- 23:22:06.000 INFO: Starting Mongoose 3.9c web server
+- 23:22:06.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:22:06.000 INFO: Index files: pages/index.php
+- 23:22:06.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:22:06.000 INFO: CGI pattern: **.php$
+- 23:22:06.000 INFO: Hide files patterns: 
+- 23:22:06.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:22:06.000 INFO: Web server url: http://127.0.0.1:57124/
+- 23:22:06.000 INFO: remote_debugging_port = 53032
+- 23:22:06.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=53032
+- 23:22:06.031 DEBUG: App::OnContextInitialized()
+- 23:22:06.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1050378
+- 23:22:06.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:22:06.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:22:06.031 DEBUG: StoreBrowserWindow(): hwnd = 1050378
+- 23:22:06.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=A38DA403C31755267BFFB4CD4C3FB4CD --mojo-platform-channel-handle=1816 /prefetch:2
+- 23:22:06.062 DEBUG: ClientHandler::OnAfterCreated()
+- 23:22:06.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:22:06.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:22:06.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=432443860568F85F9122C331D540C4EA --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=432443860568F85F9122C331D540C4EA --renderer-client-id=3 --mojo-platform-channel-handle=2348 /prefetch:1
+- 23:22:06.015 DEBUG: OnBrowserCreated()
+[0901/232206.867:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:22:07.171 INFO: GET 200 /public/css/styles.css
+- 23:22:07.171 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:22:07.171 INFO: GET 200 /
+- 23:22:07.171 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:22:07.171 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:22:07.171 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:22:07.171 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:22:07.093 DEBUG: OnContextCreated()
+- 23:22:07.281 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:22:07.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:22:07.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:22:08.343 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57124/
+- 23:22:08.218 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57124/
+- 23:22:08.187 DEBUG: OnContextCreated()
+- 23:22:08.265 INFO: GET 200 /pages/index.php
+- 23:22:08.265 INFO: GET 404 /pages/public/css/styles.css
+- 23:22:08.265 INFO: GET 404 /pages/public/plugins/fontawesome-free/css/all.min.css
+- 23:22:08.265 INFO: GET 404 /pages/public/dist/css/adminlte.min.css
+- 23:22:08.281 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:22:08.281 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:22:08.281 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:22:08.296 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57124/pages/index.php
+- 23:22:27.390 DEBUG: WM_DESTROY
+- 23:22:27.390 DEBUG: RemoveBrowserWindow(): hwnd = 1050378
+- 23:22:27.390 INFO: Stopping Mongoose web server
+- 23:22:27.390 DEBUG: Mongoose webserver stopped immediately
+- 23:22:27.406 DEBUG: OnBeforeClose() hwnd=853928
+- 23:22:27.406 DEBUG: RemoveBrowserWindow(): hwnd = 853928
+- 23:22:27.406 DEBUG: GetBrowserWindow(): not found, hwnd = 853928
+- 23:22:27.406 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:22:27.406 DEBUG: Calling CefQuitMessageLoop()
+- 23:22:27.328 DEBUG: OnBrowserDestroyed()
+- 23:22:27.406 INFO: Ended application
+- 23:22:27.406 INFO: --------------------------------------------------------
+- 23:22:51.000 INFO: --------------------------------------------------------
+- 23:22:51.000 INFO: Started application
+- 23:22:51.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:22:51.000 INFO: Log level = DEBUG4
+- 23:22:51.000 INFO: Starting Mongoose 3.9c web server
+- 23:22:51.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:22:51.000 INFO: Index files: index.html,index.php
+- 23:22:51.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:22:51.000 INFO: CGI pattern: **.php$
+- 23:22:51.000 INFO: Hide files patterns: 
+- 23:22:51.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:22:51.000 INFO: Web server url: http://127.0.0.1:53162/
+- 23:22:51.000 INFO: remote_debugging_port = 49976
+- 23:22:51.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=49976
+- 23:22:51.031 DEBUG: App::OnContextInitialized()
+- 23:22:51.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1050436
+- 23:22:51.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:22:51.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:22:51.031 DEBUG: StoreBrowserWindow(): hwnd = 1050436
+- 23:22:51.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=1743A391FF59CE28F7E59C50706D4460 --mojo-platform-channel-handle=1836 /prefetch:2
+- 23:22:51.063 DEBUG: ClientHandler::OnAfterCreated()
+- 23:22:51.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:22:51.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:22:51.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=AA584148A09A0C4B5C60711333C049FD --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=AA584148A09A0C4B5C60711333C049FD --renderer-client-id=3 --mojo-platform-channel-handle=2380 /prefetch:1
+- 23:22:51.016 DEBUG: OnBrowserCreated()
+[0901/232251.672:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:22:52.219 INFO: GET 200 /
+- 23:22:52.234 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53162/
+- 23:22:55.953 DEBUG: WM_DESTROY
+- 23:22:55.953 DEBUG: RemoveBrowserWindow(): hwnd = 1050436
+- 23:22:55.953 INFO: Stopping Mongoose web server
+- 23:22:55.953 DEBUG: Mongoose webserver stopped immediately
+- 23:22:55.953 DEBUG: OnBeforeClose() hwnd=1116146
+- 23:22:55.953 DEBUG: RemoveBrowserWindow(): hwnd = 1116146
+- 23:22:55.953 DEBUG: GetBrowserWindow(): not found, hwnd = 1116146
+- 23:22:55.953 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:22:55.953 DEBUG: Calling CefQuitMessageLoop()
+- 23:22:55.828 DEBUG: OnBrowserDestroyed()
+- 23:22:55.969 INFO: Ended application
+- 23:22:55.969 INFO: --------------------------------------------------------
+- 23:23:18.000 INFO: --------------------------------------------------------
+- 23:23:18.000 INFO: Started application
+- 23:23:18.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:23:18.000 INFO: Log level = DEBUG4
+- 23:23:18.000 INFO: Starting Mongoose 3.9c web server
+- 23:23:18.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:23:18.000 INFO: Index files: index.html,index.php
+- 23:23:18.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:23:18.000 INFO: CGI pattern: **.php$
+- 23:23:18.000 INFO: Hide files patterns: 
+- 23:23:18.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:23:18.000 INFO: Web server url: http://127.0.0.1:53533/
+- 23:23:18.000 INFO: remote_debugging_port = 52593
+- 23:23:18.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=52593
+- 23:23:18.031 DEBUG: App::OnContextInitialized()
+- 23:23:18.031 DEBUG: GetBrowserWindow(): not found, hwnd = 984992
+- 23:23:18.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:23:18.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:23:18.031 DEBUG: StoreBrowserWindow(): hwnd = 984992
+- 23:23:18.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=436AEA3EDD4AA168A8CB13B253F87A48 --mojo-platform-channel-handle=1848 /prefetch:2
+- 23:23:18.047 DEBUG: ClientHandler::OnAfterCreated()
+- 23:23:18.047 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:23:18.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:23:18.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=716E6B5A0CABC08AFEE6E67AAE1FA188 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=716E6B5A0CABC08AFEE6E67AAE1FA188 --renderer-client-id=3 --mojo-platform-channel-handle=2364 /prefetch:1
+- 23:23:18.016 DEBUG: OnBrowserCreated()
+[0901/232318.717:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:23:19.156 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:23:19.156 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:23:19.156 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:23:19.156 INFO: GET 200 /
+- 23:23:19.125 DEBUG: OnContextCreated()
+- 23:23:19.219 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53533/
+- 23:23:31.547 DEBUG: WM_DESTROY
+- 23:23:31.547 DEBUG: RemoveBrowserWindow(): hwnd = 984992
+- 23:23:31.547 INFO: Stopping Mongoose web server
+- 23:23:31.547 DEBUG: Mongoose webserver stopped immediately
+- 23:23:31.547 DEBUG: OnBeforeClose() hwnd=1116072
+- 23:23:31.547 DEBUG: RemoveBrowserWindow(): hwnd = 1116072
+- 23:23:31.547 DEBUG: GetBrowserWindow(): not found, hwnd = 1116072
+- 23:23:31.547 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:23:31.547 DEBUG: Calling CefQuitMessageLoop()
+- 23:23:31.500 DEBUG: OnBrowserDestroyed()
+- 23:23:31.562 INFO: Ended application
+- 23:23:31.562 INFO: --------------------------------------------------------
+- 23:23:46.000 INFO: --------------------------------------------------------
+- 23:23:46.000 INFO: Started application
+- 23:23:46.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:23:46.000 INFO: Log level = DEBUG4
+- 23:23:46.000 INFO: Starting Mongoose 3.9c web server
+- 23:23:46.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:23:46.000 INFO: Index files: index.html,index.php
+- 23:23:46.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:23:46.000 INFO: CGI pattern: **.php$
+- 23:23:46.000 INFO: Hide files patterns: 
+- 23:23:46.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:23:46.000 INFO: Web server url: http://127.0.0.1:53869/
+- 23:23:46.000 INFO: remote_debugging_port = 57933
+- 23:23:46.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=57933
+- 23:23:46.031 DEBUG: App::OnContextInitialized()
+- 23:23:46.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1050528
+- 23:23:46.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:23:46.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:23:46.031 DEBUG: StoreBrowserWindow(): hwnd = 1050528
+- 23:23:46.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=1D51A5088B6CE247F563269A7AD72A2E --mojo-platform-channel-handle=1832 /prefetch:2
+- 23:23:46.062 DEBUG: ClientHandler::OnAfterCreated()
+- 23:23:46.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:23:46.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:23:46.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=9A09DD06A6184DB88F7BF301353EA79E --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=9A09DD06A6184DB88F7BF301353EA79E --renderer-client-id=3 --mojo-platform-channel-handle=2356 /prefetch:1
+- 23:23:46.015 DEBUG: OnBrowserCreated()
+[0901/232346.996:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:23:47.187 INFO: GET 200 /public/css/styles.css
+- 23:23:47.187 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:23:47.187 INFO: GET 200 /
+- 23:23:47.187 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:23:47.187 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:23:47.187 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:23:47.187 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:23:47.093 DEBUG: OnContextCreated()
+- 23:23:48.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:23:48.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:23:48.281 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:23:48.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53869/
+- 23:23:49.844 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:53869/
+- 23:23:49.797 DEBUG: OnContextCreated()
+- 23:23:49.891 INFO: GET 200 /index.php
+- 23:23:49.953 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:23:49.953 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:23:49.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53869/index.php
+- 23:23:50.406 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:53869/index.php
+- 23:23:50.375 DEBUG: OnContextCreated()
+- 23:23:50.469 INFO: GET 200 /index.php
+- 23:23:50.516 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:23:50.516 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:23:50.516 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53869/index.php
+- 23:23:51.359 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:53869/index.php
+- 23:23:51.312 DEBUG: OnContextCreated()
+- 23:23:51.406 INFO: GET 200 /index.php
+- 23:23:51.453 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:23:51.453 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:23:51.469 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53869/index.php
+- 23:23:52.672 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:53869/index.php
+- 23:23:52.672 INFO: GET 404 /contact.php
+- 23:23:52.578 DEBUG: OnContextCreated()
+- 23:23:52.687 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53869/contact.php
+- 23:23:54.125 DEBUG: WM_DESTROY
+- 23:23:54.125 DEBUG: RemoveBrowserWindow(): hwnd = 1050528
+- 23:23:54.125 INFO: Stopping Mongoose web server
+- 23:23:54.125 DEBUG: Mongoose webserver stopped immediately
+- 23:23:54.125 DEBUG: OnBeforeClose() hwnd=2492236
+- 23:23:54.125 DEBUG: RemoveBrowserWindow(): hwnd = 2492236
+- 23:23:54.125 DEBUG: GetBrowserWindow(): not found, hwnd = 2492236
+- 23:23:54.125 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:23:54.125 DEBUG: Calling CefQuitMessageLoop()
+- 23:23:54.047 DEBUG: OnBrowserDestroyed()
+- 23:23:54.141 INFO: Ended application
+- 23:23:54.141 INFO: --------------------------------------------------------
+- 23:24:23.000 INFO: --------------------------------------------------------
+- 23:24:23.000 INFO: Started application
+- 23:24:23.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:24:23.000 INFO: Log level = DEBUG4
+- 23:24:23.000 INFO: Starting Mongoose 3.9c web server
+- 23:24:23.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:24:23.000 INFO: Index files: index.html,index.php
+- 23:24:23.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:24:23.000 INFO: CGI pattern: **.php$
+- 23:24:23.000 INFO: Hide files patterns: 
+- 23:24:23.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:24:23.000 INFO: Web server url: http://127.0.0.1:54374/
+- 23:24:23.000 INFO: remote_debugging_port = 51035
+- 23:24:23.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=51035
+- 23:24:23.016 DEBUG: App::OnContextInitialized()
+- 23:24:23.032 DEBUG: GetBrowserWindow(): not found, hwnd = 1181600
+- 23:24:23.032 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:24:23.032 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:24:23.032 DEBUG: StoreBrowserWindow(): hwnd = 1181600
+- 23:24:23.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=74D2009770C2A35D6CBC5246739D6CBF --mojo-platform-channel-handle=1824 /prefetch:2
+- 23:24:23.047 DEBUG: ClientHandler::OnAfterCreated()
+- 23:24:23.047 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:24:23.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:24:23.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=DB1C06406A93E38FBB71E83B1366FCBB --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=DB1C06406A93E38FBB71E83B1366FCBB --renderer-client-id=3 --mojo-platform-channel-handle=2260 /prefetch:1
+- 23:24:23.016 DEBUG: OnBrowserCreated()
+[0901/232423.526:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:24:24.172 INFO: GET 200 /public/css/styles.css
+- 23:24:24.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:24:24.172 INFO: GET 200 /
+- 23:24:24.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:24:24.188 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:24:24.188 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:24:24.188 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:24:24.125 DEBUG: OnContextCreated()
+- 23:24:24.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:24:24.266 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:24:24.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:24:24.329 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54374/
+- 23:24:26.594 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54374/
+- 23:24:27.594 DEBUG: OnContextCreated()
+- 23:24:27.657 INFO: GET 200 /contact.php
+- 23:24:27.719 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:24:27.719 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:24:27.735 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54374/contact.php
+- 23:24:28.797 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54374/contact.php
+- 23:24:28.781 DEBUG: OnContextCreated()
+- 23:24:28.844 INFO: GET 200 /index.php
+- 23:24:28.891 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:24:28.891 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:24:28.891 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54374/index.php
+- 23:24:28.516 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54374/index.php
+- 23:24:28.500 DEBUG: OnContextCreated()
+- 23:24:28.563 INFO: GET 200 /contact.php
+- 23:24:28.610 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:24:28.610 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:24:28.610 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54374/contact.php
+- 23:24:29.469 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54374/contact.php
+- 23:24:29.453 DEBUG: OnContextCreated()
+- 23:24:29.516 INFO: GET 200 /index.php
+- 23:24:29.563 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:24:29.563 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:24:29.563 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54374/index.php
+- 23:24:30.204 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54374/index.php
+- 23:24:30.187 DEBUG: OnContextCreated()
+- 23:24:30.250 INFO: GET 200 /contact.php
+- 23:24:30.297 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:24:30.297 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:24:30.297 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54374/contact.php
+- 23:24:32.641 DEBUG: WM_DESTROY
+- 23:24:32.641 DEBUG: RemoveBrowserWindow(): hwnd = 1181600
+- 23:24:32.641 INFO: Stopping Mongoose web server
+- 23:24:32.641 DEBUG: Mongoose webserver stopped immediately
+- 23:24:32.657 DEBUG: OnBeforeClose() hwnd=1640128
+- 23:24:32.657 DEBUG: RemoveBrowserWindow(): hwnd = 1640128
+- 23:24:32.657 DEBUG: GetBrowserWindow(): not found, hwnd = 1640128
+- 23:24:32.657 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:24:32.657 DEBUG: Calling CefQuitMessageLoop()
+- 23:24:32.594 DEBUG: OnBrowserDestroyed()
+- 23:24:32.672 INFO: Ended application
+- 23:24:32.672 INFO: --------------------------------------------------------
+- 23:26:02.000 INFO: --------------------------------------------------------
+- 23:26:02.000 INFO: Started application
+- 23:26:02.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:26:02.000 INFO: Log level = DEBUG4
+- 23:26:02.000 INFO: Starting Mongoose 3.9c web server
+- 23:26:02.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:26:02.000 INFO: Index files: index.html,index.php
+- 23:26:02.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:26:02.000 INFO: CGI pattern: **.php$
+- 23:26:02.000 INFO: Hide files patterns: 
+- 23:26:02.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:26:02.000 INFO: Web server url: http://127.0.0.1:55652/
+- 23:26:02.000 INFO: remote_debugging_port = 57454
+- 23:26:02.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=57454
+- 23:26:02.031 DEBUG: App::OnContextInitialized()
+- 23:26:02.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1312672
+- 23:26:02.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:26:02.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:26:02.031 DEBUG: StoreBrowserWindow(): hwnd = 1312672
+- 23:26:02.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=62D53EFC2200706AE6FA6E366CC42818 --mojo-platform-channel-handle=1828 /prefetch:2
+- 23:26:02.062 DEBUG: ClientHandler::OnAfterCreated()
+- 23:26:02.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:26:02.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:26:03.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=D7A6C29DBC31A37CEF2085A6EB27C8C9 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=D7A6C29DBC31A37CEF2085A6EB27C8C9 --renderer-client-id=3 --mojo-platform-channel-handle=2380 /prefetch:1
+- 23:26:03.016 DEBUG: OnBrowserCreated()
+[0901/232603.096:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:26:04.125 INFO: GET 200 /
+- 23:26:04.141 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55652/
+- 23:26:06.766 DEBUG: WM_DESTROY
+- 23:26:06.766 DEBUG: RemoveBrowserWindow(): hwnd = 1312672
+- 23:26:06.766 INFO: Stopping Mongoose web server
+- 23:26:06.766 DEBUG: Mongoose webserver stopped immediately
+- 23:26:06.766 DEBUG: OnBeforeClose() hwnd=1640202
+- 23:26:06.766 DEBUG: RemoveBrowserWindow(): hwnd = 1640202
+- 23:26:06.766 DEBUG: GetBrowserWindow(): not found, hwnd = 1640202
+- 23:26:06.766 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:26:06.766 DEBUG: Calling CefQuitMessageLoop()
+- 23:26:06.688 DEBUG: OnBrowserDestroyed()
+- 23:26:06.781 INFO: Ended application
+- 23:26:06.781 INFO: --------------------------------------------------------
+- 23:26:13.000 INFO: --------------------------------------------------------
+- 23:26:13.000 INFO: Started application
+- 23:26:13.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:26:13.000 INFO: Log level = DEBUG4
+- 23:26:13.000 INFO: Starting Mongoose 3.9c web server
+- 23:26:13.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:26:13.000 INFO: Index files: pages/index.php
+- 23:26:13.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:26:13.000 INFO: CGI pattern: **.php$
+- 23:26:13.000 INFO: Hide files patterns: 
+- 23:26:13.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:26:13.000 INFO: Web server url: http://127.0.0.1:55838/
+- 23:26:13.000 INFO: remote_debugging_port = 50190
+- 23:26:13.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=50190
+- 23:26:13.031 DEBUG: App::OnContextInitialized()
+- 23:26:13.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1836736
+- 23:26:13.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:26:13.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:26:13.031 DEBUG: StoreBrowserWindow(): hwnd = 1836736
+- 23:26:13.016 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=DBEE2409C0345BEF2FCA13CCB6A21989 --mojo-platform-channel-handle=1828 /prefetch:2
+- 23:26:13.047 DEBUG: ClientHandler::OnAfterCreated()
+- 23:26:13.047 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:26:13.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:26:13.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=5046CB909780D13CAF6A17B796EAFE9C --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=5046CB909780D13CAF6A17B796EAFE9C --renderer-client-id=3 --mojo-platform-channel-handle=2376 /prefetch:1
+- 23:26:13.016 DEBUG: OnBrowserCreated()
+[0901/232613.506:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:26:14.172 INFO: GET 200 /public/css/styles.css
+- 23:26:14.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:26:14.172 INFO: GET 200 /
+- 23:26:14.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:26:14.094 DEBUG: OnContextCreated()
+- 23:26:14.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:26:14.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:26:14.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:26:14.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:26:14.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:26:14.266 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:26:14.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55838/
+- 23:26:15.531 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55838/
+- 23:26:15.500 DEBUG: OnContextCreated()
+- 23:26:15.578 INFO: GET 200 /pages/index.php
+- 23:26:15.594 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:26:15.594 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:26:15.594 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:26:15.625 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:26:15.625 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:26:15.641 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:26:15.641 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:26:15.641 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55838/pages/index.php
+- 23:26:16.297 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55838/pages/index.php
+- 23:26:16.266 DEBUG: OnContextCreated()
+- 23:26:16.344 INFO: GET 200 /pages/index.php
+- 23:26:16.344 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:26:16.344 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:26:16.344 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:26:16.375 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:26:16.391 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:26:16.391 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:26:16.391 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:26:16.391 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55838/pages/index.php
+- 23:26:17.875 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55838/pages/index.php
+- 23:26:17.860 DEBUG: OnContextCreated()
+- 23:26:17.938 INFO: GET 200 /pages/index.php
+- 23:26:17.938 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:26:17.938 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:26:17.938 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:26:17.969 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:26:17.969 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:26:17.969 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:26:17.969 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:26:17.985 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55838/pages/index.php
+- 23:26:18.813 DEBUG: WM_DESTROY
+- 23:26:18.813 DEBUG: RemoveBrowserWindow(): hwnd = 1836736
+- 23:26:18.813 INFO: Stopping Mongoose web server
+- 23:26:18.813 DEBUG: Mongoose webserver stopped immediately
+- 23:26:18.828 DEBUG: OnBeforeClose() hwnd=2819916
+- 23:26:18.828 DEBUG: RemoveBrowserWindow(): hwnd = 2819916
+- 23:26:18.828 DEBUG: GetBrowserWindow(): not found, hwnd = 2819916
+- 23:26:18.828 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:26:18.828 DEBUG: Calling CefQuitMessageLoop()
+- 23:26:18.750 DEBUG: OnBrowserDestroyed()
+- 23:26:18.844 INFO: Ended application
+- 23:26:18.844 INFO: --------------------------------------------------------
+- 23:26:42.000 INFO: --------------------------------------------------------
+- 23:26:42.000 INFO: Started application
+- 23:26:42.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:26:42.000 INFO: Log level = DEBUG4
+- 23:26:42.000 INFO: Starting Mongoose 3.9c web server
+- 23:26:42.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:26:42.000 INFO: Index files: pages/index.php
+- 23:26:42.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:26:42.000 INFO: CGI pattern: **.php$
+- 23:26:42.000 INFO: Hide files patterns: 
+- 23:26:42.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:26:42.000 INFO: Web server url: http://127.0.0.1:56245/
+- 23:26:42.000 INFO: remote_debugging_port = 51376
+- 23:26:42.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=51376
+- 23:26:42.031 DEBUG: App::OnContextInitialized()
+- 23:26:42.031 DEBUG: GetBrowserWindow(): not found, hwnd = 37291668
+- 23:26:42.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:26:42.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:26:42.031 DEBUG: StoreBrowserWindow(): hwnd = 37291668
+- 23:26:42.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=0687B546A0392E1DB475733B7816C95A --mojo-platform-channel-handle=1832 /prefetch:2
+- 23:26:42.062 DEBUG: ClientHandler::OnAfterCreated()
+- 23:26:42.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:26:42.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:26:42.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=18C2A05F92AF4F8FADF3846DDA17895A --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=18C2A05F92AF4F8FADF3846DDA17895A --renderer-client-id=3 --mojo-platform-channel-handle=2384 /prefetch:1
+- 23:26:42.015 DEBUG: OnBrowserCreated()
+[0901/232642.361:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:26:43.171 INFO: GET 200 /public/css/styles.css
+- 23:26:43.171 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:26:43.171 INFO: GET 200 /
+- 23:26:43.171 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:26:43.093 DEBUG: OnContextCreated()
+- 23:26:43.187 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:26:43.187 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:26:43.187 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:26:43.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:26:43.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:26:43.281 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:26:43.359 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56245/
+- 23:26:45.968 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56245/
+- 23:26:45.937 DEBUG: OnContextCreated()
+- 23:26:45.015 INFO: GET 200 /pages/contact.php
+- 23:26:45.031 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56245/pages/contact.php
+- 23:26:49.968 DEBUG: WM_DESTROY
+- 23:26:49.968 DEBUG: RemoveBrowserWindow(): hwnd = 37291668
+- 23:26:49.968 INFO: Stopping Mongoose web server
+- 23:26:49.968 DEBUG: Mongoose webserver stopped immediately
+- 23:26:49.968 DEBUG: OnBeforeClose() hwnd=2099044
+- 23:26:49.968 DEBUG: RemoveBrowserWindow(): hwnd = 2099044
+- 23:26:49.968 DEBUG: GetBrowserWindow(): not found, hwnd = 2099044
+- 23:26:49.968 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:26:49.968 DEBUG: Calling CefQuitMessageLoop()
+- 23:26:49.890 DEBUG: OnBrowserDestroyed()
+- 23:26:49.984 INFO: Ended application
+- 23:26:49.984 INFO: --------------------------------------------------------
+- 23:27:05.000 INFO: --------------------------------------------------------
+- 23:27:05.000 INFO: Started application
+- 23:27:05.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:27:05.000 INFO: Log level = DEBUG4
+- 23:27:05.000 INFO: Starting Mongoose 3.9c web server
+- 23:27:05.016 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:27:05.016 INFO: Index files: pages/index.php
+- 23:27:05.016 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:27:05.016 INFO: CGI pattern: **.php$
+- 23:27:05.016 INFO: Hide files patterns: 
+- 23:27:05.016 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:27:05.016 INFO: Web server url: http://127.0.0.1:56563/
+- 23:27:05.016 INFO: remote_debugging_port = 50689
+- 23:27:05.016 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=50689
+- 23:27:05.031 DEBUG: App::OnContextInitialized()
+- 23:27:05.031 DEBUG: GetBrowserWindow(): not found, hwnd = 3016524
+- 23:27:05.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:27:05.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:27:05.031 DEBUG: StoreBrowserWindow(): hwnd = 3016524
+- 23:27:05.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=2BA1B9FB12E822B756DA99DE456C2121 --mojo-platform-channel-handle=1816 /prefetch:2
+- 23:27:05.062 DEBUG: ClientHandler::OnAfterCreated()
+- 23:27:05.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:27:05.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:27:05.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=CF92688385699F7C984F5EDF37C186D2 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=CF92688385699F7C984F5EDF37C186D2 --renderer-client-id=3 --mojo-platform-channel-handle=2264 /prefetch:1
+- 23:27:05.016 DEBUG: OnBrowserCreated()
+[0901/232705.237:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:27:06.187 INFO: GET 200 /public/css/styles.css
+- 23:27:06.187 INFO: GET 200 /
+- 23:27:06.187 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:27:06.187 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:27:06.187 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:06.187 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:27:06.187 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:27:06.109 DEBUG: OnContextCreated()
+- 23:27:06.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:27:06.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:27:06.281 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:27:06.359 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56563/
+- 23:27:07.156 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56563/
+- 23:27:07.125 DEBUG: OnContextCreated()
+- 23:27:07.203 INFO: GET 200 /pages/contact.php
+- 23:27:07.203 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:27:07.203 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:07.203 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:27:07.234 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:07.234 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:27:07.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:27:07.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:27:07.250 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56563/pages/contact.php
+- 23:27:07.922 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56563/pages/contact.php
+- 23:27:08.891 DEBUG: OnContextCreated()
+- 23:27:08.969 INFO: GET 200 /pages/index.php
+- 23:27:08.984 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:27:08.984 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:08.984 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:27:08.016 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:08.031 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:27:08.031 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:27:08.031 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:27:08.031 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56563/pages/index.php
+- 23:27:08.766 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56563/pages/index.php
+- 23:27:08.734 DEBUG: OnContextCreated()
+- 23:27:08.812 INFO: GET 200 /pages/contact.php
+- 23:27:08.812 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:27:08.812 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:08.812 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:27:08.844 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:08.859 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:27:08.859 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:27:08.859 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:27:08.859 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56563/pages/contact.php
+- 23:27:09.500 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56563/pages/contact.php
+- 23:27:09.547 INFO: GET 200 /pages/index.php
+- 23:27:09.469 DEBUG: OnContextCreated()
+- 23:27:09.547 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:27:09.547 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:09.547 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:27:09.578 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:09.594 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:27:09.594 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:27:09.594 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:27:09.594 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56563/pages/index.php
+- 23:27:14.891 DEBUG: WM_DESTROY
+- 23:27:14.891 DEBUG: RemoveBrowserWindow(): hwnd = 3016524
+- 23:27:14.891 INFO: Stopping Mongoose web server
+- 23:27:14.891 DEBUG: Mongoose webserver stopped immediately
+- 23:27:14.906 DEBUG: OnBeforeClose() hwnd=1771332
+- 23:27:14.906 DEBUG: RemoveBrowserWindow(): hwnd = 1771332
+- 23:27:14.906 DEBUG: GetBrowserWindow(): not found, hwnd = 1771332
+- 23:27:14.906 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:27:14.906 DEBUG: Calling CefQuitMessageLoop()
+- 23:27:14.828 DEBUG: OnBrowserDestroyed()
+- 23:27:14.922 INFO: Ended application
+- 23:27:14.922 INFO: --------------------------------------------------------
+- 23:27:26.000 INFO: --------------------------------------------------------
+- 23:27:26.000 INFO: Started application
+- 23:27:26.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:27:26.000 INFO: Log level = DEBUG4
+- 23:27:26.000 INFO: Starting Mongoose 3.9c web server
+- 23:27:26.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:27:26.000 INFO: Index files: pages/index.php
+- 23:27:26.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:27:26.000 INFO: CGI pattern: **.php$
+- 23:27:26.000 INFO: Hide files patterns: 
+- 23:27:26.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:27:26.000 INFO: Web server url: http://127.0.0.1:56920/
+- 23:27:26.000 INFO: remote_debugging_port = 53440
+- 23:27:26.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=53440
+- 23:27:26.031 DEBUG: App::OnContextInitialized()
+- 23:27:26.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1902578
+- 23:27:26.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:27:26.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:27:26.031 DEBUG: StoreBrowserWindow(): hwnd = 1902578
+- 23:27:26.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=86634E8D060E91A7C1482F588B2441F1 --mojo-platform-channel-handle=1836 /prefetch:2
+- 23:27:26.047 DEBUG: ClientHandler::OnAfterCreated()
+- 23:27:26.047 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:27:26.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:27:26.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=32F2447D0A051BD11C3211017584B739 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=32F2447D0A051BD11C3211017584B739 --renderer-client-id=3 --mojo-platform-channel-handle=2380 /prefetch:1
+- 23:27:26.016 DEBUG: OnBrowserCreated()
+[0901/232726.800:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:27:27.172 INFO: GET 200 /public/css/styles.css
+- 23:27:27.172 INFO: GET 200 /
+- 23:27:27.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:27:27.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:27:27.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:27.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:27:27.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:27:27.094 DEBUG: OnContextCreated()
+- 23:27:27.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:27:27.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:27:27.266 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:27:27.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56920/
+- 23:27:37.406 DEBUG: WM_DESTROY
+- 23:27:37.406 DEBUG: RemoveBrowserWindow(): hwnd = 1902578
+- 23:27:37.406 INFO: Stopping Mongoose web server
+- 23:27:37.406 DEBUG: Mongoose webserver stopped immediately
+- 23:27:37.422 DEBUG: OnBeforeClose() hwnd=1508488
+- 23:27:37.422 DEBUG: RemoveBrowserWindow(): hwnd = 1508488
+- 23:27:37.422 DEBUG: GetBrowserWindow(): not found, hwnd = 1508488
+- 23:27:37.422 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:27:37.422 DEBUG: Calling CefQuitMessageLoop()
+- 23:27:37.344 DEBUG: OnBrowserDestroyed()
+- 23:27:37.422 INFO: Ended application
+- 23:27:37.422 INFO: --------------------------------------------------------
+- 23:27:58.000 INFO: --------------------------------------------------------
+- 23:27:58.000 INFO: Started application
+- 23:27:58.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:27:58.000 INFO: Log level = DEBUG4
+- 23:27:58.000 INFO: Starting Mongoose 3.9c web server
+- 23:27:58.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:27:58.000 INFO: Index files: pages/index.php
+- 23:27:58.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:27:58.000 INFO: CGI pattern: **.php$
+- 23:27:58.000 INFO: Hide files patterns: 
+- 23:27:58.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:27:58.000 INFO: Web server url: http://127.0.0.1:57393/
+- 23:27:58.000 INFO: remote_debugging_port = 49724
+- 23:27:58.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=49724
+- 23:27:58.031 DEBUG: App::OnContextInitialized()
+- 23:27:58.031 DEBUG: GetBrowserWindow(): not found, hwnd = 2164416
+- 23:27:58.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:27:58.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:27:58.031 DEBUG: StoreBrowserWindow(): hwnd = 2164416
+- 23:27:58.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=C59ACFC687B4CB6F2084A593A61E0CE6 --mojo-platform-channel-handle=1828 /prefetch:2
+- 23:27:58.046 DEBUG: ClientHandler::OnAfterCreated()
+- 23:27:58.046 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:27:58.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:27:58.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=EB667007D38DF3567EF0CEA69F1C4577 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=EB667007D38DF3567EF0CEA69F1C4577 --renderer-client-id=3 --mojo-platform-channel-handle=2368 /prefetch:1
+- 23:27:58.015 DEBUG: OnBrowserCreated()
+[0901/232758.983:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:27:59.171 INFO: GET 200 /public/css/styles.css
+- 23:27:59.171 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:27:59.171 INFO: GET 200 /
+- 23:27:59.171 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:27:59.171 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:27:59.171 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:27:59.093 DEBUG: OnContextCreated()
+- 23:27:59.171 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:28:00.265 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:28:00.265 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:28:00.265 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:28:00.343 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57393/
+- 23:28:50.953 DEBUG: WM_DESTROY
+- 23:28:50.953 DEBUG: RemoveBrowserWindow(): hwnd = 2164416
+- 23:28:50.953 INFO: Stopping Mongoose web server
+- 23:28:50.953 DEBUG: Mongoose webserver stopped immediately
+- 23:28:50.953 DEBUG: OnBeforeClose() hwnd=1640196
+- 23:28:50.953 DEBUG: RemoveBrowserWindow(): hwnd = 1640196
+- 23:28:50.953 DEBUG: GetBrowserWindow(): not found, hwnd = 1640196
+- 23:28:50.953 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:28:50.953 DEBUG: Calling CefQuitMessageLoop()
+- 23:28:50.875 DEBUG: OnBrowserDestroyed()
+- 23:28:50.968 INFO: Ended application
+- 23:28:50.968 INFO: --------------------------------------------------------
+- 23:28:52.000 INFO: --------------------------------------------------------
+- 23:28:52.000 INFO: Started application
+- 23:28:52.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:28:52.000 INFO: Log level = DEBUG4
+- 23:28:52.000 INFO: Starting Mongoose 3.9c web server
+- 23:28:52.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:28:52.000 INFO: Index files: pages/index.php
+- 23:28:52.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:28:52.000 INFO: CGI pattern: **.php$
+- 23:28:52.000 INFO: Hide files patterns: 
+- 23:28:52.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:28:52.000 INFO: Web server url: http://127.0.0.1:58163/
+- 23:28:52.000 INFO: remote_debugging_port = 50113
+- 23:28:52.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=50113
+- 23:28:52.031 DEBUG: App::OnContextInitialized()
+- 23:28:52.031 DEBUG: GetBrowserWindow(): not found, hwnd = 5113694
+- 23:28:52.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:28:52.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:28:52.031 DEBUG: StoreBrowserWindow(): hwnd = 5113694
+- 23:28:52.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=9B2084FC37BBBA09D66B07731C396A38 --mojo-platform-channel-handle=1828 /prefetch:2
+- 23:28:52.047 DEBUG: ClientHandler::OnAfterCreated()
+- 23:28:52.047 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:28:52.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:28:52.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=B9928B77193375D33424AF10B40AB7F6 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=B9928B77193375D33424AF10B40AB7F6 --renderer-client-id=3 --mojo-platform-channel-handle=2376 /prefetch:1
+- 23:28:52.016 DEBUG: OnBrowserCreated()
+[0901/232852.246:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:28:53.172 INFO: GET 200 /public/css/styles.css
+- 23:28:53.172 INFO: GET 200 /
+- 23:28:53.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:28:53.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:28:53.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:28:53.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:28:53.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:28:53.094 DEBUG: OnContextCreated()
+- 23:28:53.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:28:53.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:28:53.266 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:28:53.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58163/
+- 23:29:00.922 DEBUG: WM_DESTROY
+- 23:29:00.922 DEBUG: RemoveBrowserWindow(): hwnd = 5113694
+- 23:29:00.922 INFO: Stopping Mongoose web server
+- 23:29:00.922 DEBUG: Mongoose webserver stopped immediately
+- 23:29:00.922 DEBUG: OnBeforeClose() hwnd=7997250
+- 23:29:00.922 DEBUG: RemoveBrowserWindow(): hwnd = 7997250
+- 23:29:00.922 DEBUG: GetBrowserWindow(): not found, hwnd = 7997250
+- 23:29:00.922 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:29:00.922 DEBUG: Calling CefQuitMessageLoop()
+- 23:29:00.844 DEBUG: OnBrowserDestroyed()
+- 23:29:00.938 INFO: Ended application
+- 23:29:00.938 INFO: --------------------------------------------------------
+- 23:29:01.000 INFO: --------------------------------------------------------
+- 23:29:01.000 INFO: Started application
+- 23:29:01.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:29:01.000 INFO: Log level = DEBUG4
+- 23:29:01.000 INFO: Starting Mongoose 3.9c web server
+- 23:29:01.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:29:01.000 INFO: Index files: pages/index.php
+- 23:29:01.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:29:01.000 INFO: CGI pattern: **.php$
+- 23:29:01.000 INFO: Hide files patterns: 
+- 23:29:01.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:29:01.000 INFO: Web server url: http://127.0.0.1:58301/
+- 23:29:01.000 INFO: remote_debugging_port = 52135
+- 23:29:01.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=52135
+- 23:29:01.031 DEBUG: App::OnContextInitialized()
+- 23:29:01.031 DEBUG: GetBrowserWindow(): not found, hwnd = 2360476
+- 23:29:01.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:29:01.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:29:01.031 DEBUG: StoreBrowserWindow(): hwnd = 2360476
+- 23:29:01.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=02062F1CB64D4EF717D35E5A69DFA88F --mojo-platform-channel-handle=1828 /prefetch:2
+- 23:29:01.063 DEBUG: ClientHandler::OnAfterCreated()
+- 23:29:01.063 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:29:01.063 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:29:01.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=F3763CD61C067BB53F9095AC4FF80FBC --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=F3763CD61C067BB53F9095AC4FF80FBC --renderer-client-id=3 --mojo-platform-channel-handle=2312 /prefetch:1
+- 23:29:01.016 DEBUG: OnBrowserCreated()
+[0901/232901.546:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:29:02.172 INFO: GET 200 /public/css/styles.css
+- 23:29:02.172 INFO: GET 200 /
+- 23:29:02.172 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:29:02.172 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:29:02.172 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:29:02.172 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:29:02.094 DEBUG: OnContextCreated()
+- 23:29:02.172 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:29:02.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:29:02.266 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:29:02.266 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:29:02.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/
+- 23:30:42.672 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/
+- 23:30:42.641 DEBUG: OnContextCreated()
+- 23:30:42.719 INFO: GET 200 /pages/index.php
+- 23:30:42.719 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:30:42.719 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:30:42.719 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:30:42.750 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:30:42.766 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:30:42.766 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:30:42.766 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:30:42.781 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/index.php
+- 23:30:50.078 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/index.php
+- 23:30:50.063 DEBUG: OnContextCreated()
+- 23:30:50.141 INFO: GET 200 /pages/index.php
+- 23:30:50.141 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:30:50.141 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:30:50.141 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:30:50.172 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:30:50.188 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:30:50.188 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:30:50.188 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:30:50.188 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/index.php
+- 23:30:56.297 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/index.php
+- 23:30:56.266 DEBUG: OnContextCreated()
+- 23:30:56.344 INFO: GET 200 /pages/contact.php
+- 23:30:56.344 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:30:56.344 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:30:56.344 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:30:56.375 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:30:56.375 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:30:56.375 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:30:56.375 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:30:56.375 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:30:56.375 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:30:57.094 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:30:57.078 DEBUG: OnContextCreated()
+- 23:30:57.156 INFO: GET 200 /pages/index.php
+- 23:30:57.156 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:30:57.156 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:30:57.156 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:30:57.172 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:30:57.188 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:30:57.188 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:30:57.188 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:30:57.188 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:30:57.188 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/index.php
+- 23:31:17.938 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/index.php
+- 23:31:17.906 DEBUG: OnContextCreated()
+- 23:31:17.984 INFO: GET 200 /pages/contact.php
+- 23:31:17.984 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:31:17.984 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:31:17.984 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:31:17.016 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:31:17.016 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:31:17.016 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:31:17.031 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:31:17.031 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:31:17.031 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:31:33.406 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:31:33.375 DEBUG: OnContextCreated()
+- 23:31:33.453 INFO: GET 200 /pages/contact.php
+- 23:31:33.484 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:31:33.484 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:31:33.484 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:31:33.484 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:31:33.484 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:31:33.500 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:31:51.000 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:31:51.969 DEBUG: OnContextCreated()
+- 23:31:51.047 INFO: GET 200 /pages/contact.php
+- 23:31:51.047 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:31:51.047 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:31:51.047 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:31:51.078 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:31:51.078 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:31:51.094 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:31:52.688 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:31:52.656 DEBUG: OnContextCreated()
+- 23:31:52.734 INFO: GET 200 /pages/contact.php
+- 23:31:52.766 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:31:52.766 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:31:52.766 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:31:52.766 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:31:52.781 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:31:52.781 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:32:31.438 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:32:31.406 DEBUG: OnContextCreated()
+- 23:32:31.500 INFO: GET 200 /pages/contact.php
+- 23:32:31.500 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:32:31.500 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:32:31.500 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:32:31.531 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:32:31.531 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:32:31.531 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:32:44.500 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:32:44.469 DEBUG: OnContextCreated()
+- 23:32:44.547 INFO: GET 200 /pages/index.php
+- 23:32:44.547 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:32:44.547 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:32:44.547 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:32:44.578 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:32:44.578 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:32:44.578 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:32:44.594 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:32:44.594 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/index.php
+- 23:32:46.219 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/index.php
+- 23:32:46.188 DEBUG: OnContextCreated()
+- 23:32:46.266 INFO: GET 200 /pages/contact.php
+- 23:32:46.281 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:32:46.281 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:32:46.281 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:32:46.313 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:32:46.313 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:32:46.313 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:33:35.203 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:33:35.172 DEBUG: OnContextCreated()
+- 23:33:35.250 INFO: GET 200 /pages/contact.php
+- 23:33:35.250 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:33:35.250 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:33:35.250 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:33:35.281 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:33:35.281 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:33:35.297 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:33:44.203 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:33:44.172 DEBUG: OnContextCreated()
+- 23:33:44.250 INFO: GET 200 /pages/contact.php
+- 23:33:44.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:33:44.297 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:33:44.297 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:33:44.297 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:33:44.297 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:33:44.297 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:34:03.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:34:03.391 DEBUG: OnContextCreated()
+- 23:34:03.469 INFO: GET 200 /pages/contact.php
+- 23:34:03.469 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:34:03.469 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:34:03.469 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:34:03.500 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:34:03.500 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:34:03.500 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:34:03.516 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:34:03.516 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:34:27.703 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:34:27.672 DEBUG: OnContextCreated()
+- 23:34:27.750 INFO: GET 200 /pages/contact.php
+- 23:34:27.750 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:34:27.750 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:34:27.750 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:34:27.781 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:34:27.781 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:34:27.797 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:34:27.797 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:34:27.797 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:34:27.000 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:34:27.969 DEBUG: OnContextCreated()
+- 23:34:27.047 INFO: GET 200 /pages/contact.php
+- 23:34:27.078 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:34:27.078 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:34:27.078 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:34:27.078 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:34:27.078 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:34:27.078 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:34:59.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:34:59.391 DEBUG: OnContextCreated()
+- 23:34:59.469 INFO: GET 200 /pages/contact.php
+- 23:34:59.469 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:34:59.469 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:34:59.469 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:34:59.500 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:34:59.500 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:34:59.500 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:34:59.516 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:34:59.516 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:35:21.156 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:35:21.125 DEBUG: OnContextCreated()
+- 23:35:21.203 INFO: GET 200 /pages/contact.php
+- 23:35:21.234 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:35:21.234 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:35:21.234 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:35:21.234 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:35:21.250 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:35:21.250 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:35:26.188 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:35:26.156 DEBUG: OnContextCreated()
+- 23:35:26.234 INFO: GET 200 /pages/contact.php
+- 23:35:26.250 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:35:26.250 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:35:26.250 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:35:26.266 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:35:26.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:35:26.281 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:35:26.281 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:35:26.281 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:36:25.500 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:36:25.485 DEBUG: OnContextCreated()
+- 23:36:25.563 INFO: GET 200 /pages/contact.php
+- 23:36:25.594 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:36:25.594 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:36:25.594 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:36:25.594 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:36:25.609 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:36:25.609 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:36:31.266 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58301/pages/contact.php
+- 23:36:31.235 DEBUG: OnContextCreated()
+- 23:36:31.313 INFO: GET 200 /pages/contact.php
+- 23:36:31.313 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:36:31.313 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:36:31.313 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:36:31.344 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:36:31.359 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:36:31.359 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:36:31.359 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:36:31.359 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58301/pages/contact.php
+- 23:52:48.078 DEBUG: WM_DESTROY
+- 23:52:48.078 DEBUG: RemoveBrowserWindow(): hwnd = 2360476
+- 23:52:48.078 INFO: Stopping Mongoose web server
+- 23:52:48.078 DEBUG: Mongoose webserver stopped immediately
+- 23:52:48.078 DEBUG: OnBeforeClose() hwnd=2294930
+- 23:52:48.078 DEBUG: RemoveBrowserWindow(): hwnd = 2294930
+- 23:52:48.078 DEBUG: GetBrowserWindow(): not found, hwnd = 2294930
+- 23:52:48.078 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 23:52:48.078 DEBUG: Calling CefQuitMessageLoop()
+- 23:52:48.016 DEBUG: OnBrowserDestroyed()
+- 23:52:48.094 INFO: Ended application
+- 23:52:48.094 INFO: --------------------------------------------------------
+- 23:52:52.000 INFO: --------------------------------------------------------
+- 23:52:52.000 INFO: Started application
+- 23:52:52.000 INFO: Logging to: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log
+- 23:52:52.000 INFO: Log level = DEBUG4
+- 23:52:52.000 INFO: Starting Mongoose 3.9c web server
+- 23:52:52.000 INFO: WWW directory: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\data
+- 23:52:52.000 INFO: Index files: pages/index.php
+- 23:52:52.000 INFO: CGI interpreter: E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\php\php-cgi.exe
+- 23:52:52.000 INFO: CGI pattern: **.php$
+- 23:52:52.000 INFO: Hide files patterns: 
+- 23:52:52.000 INFO: CGI environment variables set: TMP=C:\Users\maxig\AppData\Local\Temp\,TEMP=C:\Users\maxig\AppData\Local\Temp\,TMPDIR=C:\Users\maxig\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 23:52:52.000 INFO: Web server url: http://127.0.0.1:58842/
+- 23:52:52.000 INFO: remote_debugging_port = 56791
+- 23:52:52.000 DEBUG: Command line string for the browser process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --remote-debugging-port=56791
+- 23:52:52.031 DEBUG: App::OnContextInitialized()
+- 23:52:52.031 DEBUG: GetBrowserWindow(): not found, hwnd = 2164270
+- 23:52:52.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 23:52:52.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 23:52:52.031 DEBUG: StoreBrowserWindow(): hwnd = 2164270
+- 23:52:52.000 DEBUG: Command line string for the gpu-process process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1c82 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.5222 --gpu-driver-date=4-11-2024 --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --service-request-channel-token=4A6DE06CAE6C3F9651BF977E9AE53B9C --mojo-platform-channel-handle=1860 /prefetch:2
+- 23:52:52.046 DEBUG: ClientHandler::OnAfterCreated()
+- 23:52:52.046 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 23:52:52.062 DEBUG: OnLoadingStateChange: loading=1, url=
+- 23:52:52.000 DEBUG: Command line string for the renderer process: "E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=7988DD7E4813A23057BBD897D6B8EE36 --lang=en-US --lang=en-US --log-file="E:\Documentos\1-Programacion\app-DonacionDeSangre-Free\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=7988DD7E4813A23057BBD897D6B8EE36 --renderer-client-id=3 --mojo-platform-channel-handle=2376 /prefetch:1
+- 23:52:52.016 DEBUG: OnBrowserCreated()
+[0901/235252.734:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 23:52:53.171 INFO: GET 200 /public/css/styles.css
+- 23:52:53.171 INFO: GET 200 /
+- 23:52:53.171 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 23:52:53.171 INFO: GET 200 /public/plugins/jquery/jquery.min.js
+- 23:52:53.171 INFO: GET 200 /public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:52:53.171 INFO: GET 200 /public/dist/js/adminlte.min.js
+- 23:52:53.171 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 23:52:53.109 DEBUG: OnContextCreated()
+- 23:52:53.265 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:52:53.265 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:52:53.265 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 23:52:53.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/
+- 23:52:54.421 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/
+- 23:52:55.516 DEBUG: OnContextCreated()
+- 23:52:55.593 INFO: GET 200 /pages/contact.php
+- 23:52:55.625 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:52:55.625 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:52:55.625 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:52:55.625 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:52:55.640 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:52:55.640 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 23:56:59.812 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 23:56:59.922 DEBUG: OnContextCreated()
+- 23:56:59.000 INFO: POST 200 /pages/contact.php
+- 23:56:59.000 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 23:56:59.000 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:56:59.000 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:56:59.031 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 23:56:59.031 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 23:56:59.031 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 23:56:59.046 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 23:56:59.046 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php#
+- 00:05:27.796 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php#
+- 00:05:27.797 DEBUG: OnContextCreated()
+- 00:05:27.859 INFO: GET 200 /pages/contact.php
+- 00:05:27.859 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:05:27.859 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:05:27.859 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:05:27.906 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:05:27.906 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:05:27.921 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:06:12.625 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:06:12.609 DEBUG: OnContextCreated()
+- 00:06:12.671 INFO: GET 200 /pages/contact.php
+- 00:06:12.671 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:06:12.671 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:06:12.671 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:06:12.703 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:06:12.718 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:06:12.718 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:06:12.718 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:06:12.734 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:06:25.656 DEBUG: F5 pressed, reloading page
+- 00:06:25.656 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:06:25.641 DEBUG: OnContextCreated()
+- 00:06:25.703 INFO: GET 200 /pages/contact.php
+- 00:06:25.703 INFO: GET 200 /public/css/styles.css
+- 00:06:25.703 INFO: GET 200 /public/plugins/fontawesome-free/css/all.min.css
+- 00:06:25.703 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:06:25.703 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:06:25.703 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:06:25.703 INFO: GET 200 /public/dist/css/adminlte.min.css
+- 00:06:25.734 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:06:25.750 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:06:25.765 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:06:25.765 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:06:25.765 INFO: GET 200 /public/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+- 00:06:25.765 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:06:37.000 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:06:37.984 DEBUG: OnContextCreated()
+- 00:06:37.046 INFO: GET 200 /pages/contact.php
+- 00:06:37.046 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:06:37.046 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:06:37.046 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:06:37.078 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:06:37.078 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:06:37.093 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:06:37.093 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:06:37.109 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:08:02.203 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:08:03.750 DEBUG: OnContextCreated()
+- 00:08:03.812 INFO: GET 200 /pages/contact.php
+- 00:08:03.828 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:08:03.828 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:08:03.828 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:08:03.859 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:08:03.859 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:08:03.859 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:08:03.875 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:08:03.875 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:08:03.406 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:08:04.406 DEBUG: OnContextCreated()
+- 00:08:04.468 INFO: GET 200 /pages/contact.php
+- 00:08:04.468 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:08:04.468 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:08:04.468 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:08:04.500 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:08:04.500 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:08:04.500 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:08:04.500 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:08:04.515 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:09:17.828 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:09:17.828 DEBUG: OnContextCreated()
+- 00:09:17.890 INFO: GET 200 /pages/contact.php
+- 00:09:17.890 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:09:17.890 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:09:17.890 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:09:17.921 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:09:17.921 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:09:17.937 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:09:17.937 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:09:17.937 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:09:24.171 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:09:24.156 DEBUG: OnContextCreated()
+- 00:09:24.218 INFO: GET 200 /pages/contact.php
+- 00:09:24.218 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:09:24.218 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:09:24.218 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:09:24.250 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:09:24.265 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:09:24.265 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:09:24.265 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:09:24.265 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:09:51.703 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:09:51.688 DEBUG: OnContextCreated()
+- 00:09:51.750 INFO: GET 200 /pages/contact.php
+- 00:09:51.765 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:09:51.765 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:09:51.765 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:09:51.796 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:09:51.796 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:09:51.796 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:09:51.796 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:09:51.796 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/contact.php
+- 00:10:16.625 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58842/pages/contact.php
+- 00:10:16.625 DEBUG: OnContextCreated()
+- 00:10:16.687 INFO: GET 200 /pages/index.php
+- 00:10:16.687 INFO: GET 404 /pages/public/plugins/jquery/jquery.min.js
+- 00:10:16.687 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:10:16.687 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:10:16.718 INFO: GET 404 /pages/public/plugins/bootstrap/js/bootstrap.bundle.min.js
+- 00:10:16.718 INFO: GET 404 /pages/public/dist/js/adminlte.min.js
+- 00:10:16.734 INFO: GET 404 /public/css/fonts/SourceSansPro-Regular.ttf
+- 00:10:16.734 INFO: GET 404 /public/css/fonts/SourceSansPro-Bold.ttf
+- 00:10:16.734 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58842/pages/index.php
+- 00:11:21.171 DEBUG: WM_DESTROY
+- 00:11:21.171 DEBUG: RemoveBrowserWindow(): hwnd = 2164270
+- 00:11:21.171 INFO: Stopping Mongoose web server
+- 00:11:21.171 DEBUG: Mongoose webserver stopped immediately
+- 00:11:21.171 DEBUG: OnBeforeClose() hwnd=2754404
+- 00:11:21.171 DEBUG: RemoveBrowserWindow(): hwnd = 2754404
+- 00:11:21.171 DEBUG: GetBrowserWindow(): not found, hwnd = 2754404
+- 00:11:21.171 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 00:11:21.171 DEBUG: Calling CefQuitMessageLoop()
+- 00:11:21.109 DEBUG: OnBrowserDestroyed()
+- 00:11:22.640 INFO: Ended application
+- 00:11:22.640 INFO: --------------------------------------------------------
