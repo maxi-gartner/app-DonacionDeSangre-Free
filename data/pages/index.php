@@ -17,7 +17,7 @@
         <th>Sexo</th>
         <th>Telefono</th>
       </tr>
-    </thead>
+    </thead> 
     <tbody>
       <tr>
         <td>Trident</td>
