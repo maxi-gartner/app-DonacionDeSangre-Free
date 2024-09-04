@@ -8,28 +8,28 @@
 </div>
 
 <div class="card-body">
-<table id="tablaDonantes" class="table table-bordered table-striped">
-                  <thead>
-                  <tr>
-                    <th>Nombre y Apellido</th>
-                    <th>Grupo Sanguineo</th>
-                    <th>Localidad</th>
-                    <th>Sexo</th>
-                    <th>Telefono</th>
-                  </tr>
-                  </thead>
-                  <tbody>
-                  <tr>
-                    <td>Trident</td>
-                    <td>Internet
-                      Explorer 4.0
-                    </td>
-                    <td>Win 95+</td>
-                    <td> 4</td>
-                    <td>X</td>
-                  </tr>
-                  </tbody>
-                </table>
+  <table id="tablaDonantes" class="table table-bordered table-striped">
+    <thead>
+      <tr>
+        <th>Nombre y Apellido</th>
+        <th>Grupo Sanguineo</th>
+        <th>Localidad</th>
+        <th>Sexo</th>
+        <th>Telefono</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Trident</td>
+        <td>Internet
+          Explorer 4.0
+        </td>
+        <td>Win 95+</td>
+        <td> 4</td>
+        <td>X</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 </main>
 
