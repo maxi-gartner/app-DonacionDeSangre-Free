@@ -42,4 +42,4 @@
       "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
     }).buttons().container().appendTo('#tablaDonantes_wrapper .col-md-6:eq(0)');
   });
-</script>
+</script> 
