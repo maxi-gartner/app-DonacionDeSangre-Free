@@ -30,7 +30,7 @@
       </tr>
     </tbody>
   </table>
-</div> 
+</div>  
 </main>
 
 <?php include '../layouts/footer.php'; ?>
